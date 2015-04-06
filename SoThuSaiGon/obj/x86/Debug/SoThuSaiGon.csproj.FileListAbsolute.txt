@@ -1,0 +1,8 @@
+D:\C#\SoThuSaiGon\SoThuSaiGon\bin\Debug\SoThuSaiGon.exe
+D:\C#\SoThuSaiGon\SoThuSaiGon\bin\Debug\SoThuSaiGon.pdb
+D:\C#\SoThuSaiGon\SoThuSaiGon\obj\x86\Debug\SoThuSaiGon.Form1.resources
+D:\C#\SoThuSaiGon\SoThuSaiGon\obj\x86\Debug\SoThuSaiGon.Properties.Resources.resources
+D:\C#\SoThuSaiGon\SoThuSaiGon\obj\x86\Debug\SoThuSaiGon.csproj.GenerateResource.Cache
+D:\C#\SoThuSaiGon\SoThuSaiGon\obj\x86\Debug\SoThuSaiGon.exe
+D:\C#\SoThuSaiGon\SoThuSaiGon\obj\x86\Debug\SoThuSaiGon.pdb
+D:\C#\SoThuSaiGon\SoThuSaiGon\obj\x86\Debug\SoThuSaiGon.csprojResolveAssemblyReference.cache
